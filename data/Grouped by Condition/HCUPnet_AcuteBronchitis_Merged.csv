@@ -1,0 +1,25 @@
+Year,County,FIPS code,Patient Characteristic,Number of Discharges,Average Length of Stay (in days),"Rate of Discharges Per 100,000 Population","Age-Sex Adjusted Rate of Discharges per 100,000 Population",Aggregate Hospital Costs (in $),Average Hospital Costs per Stay (in $)
+2012,US Total,,Overall,171300,3.1,54.7,*,906707237,5293
+2012,State Total,53,Overall,2207,3.2,32.2,33.1,18666571,8458
+2012,Benton,53005,Overall,47,2.5,26.0,25.8,198438,4222
+2013,US Total,,Overall,157160,3.2,49.9,*,988144690,6288
+2013,State Total,53,Overall,2087,3.4,30.0,31.3,19003302,9106
+2013,Benton,53005,Overall,53,2.7,28.5,26.3,235470,4443
+2014,US Total,,Overall,132330,3.2,41.7,*,814425562,6155
+2014,State Total,53,Overall,1732,3.4,24.7,26.5,18012280,10397
+2014,Benton,53005,Overall,54,2.7,29.0,29.0,329796,6107
+2016,US Total,,Overall,153730,3.3,47.7,*,1035192683,6734
+2016,State Total,53,Overall,2102,3.2,29.3,31.3,25910700,12326
+2016,Benton,53005,Overall,50,2.6,26.2,26.0,341339,6827
+2017,US Total,,Overall,151750,3.3,46.7,*,1063367261,7007
+2017,State Total,53,Overall,2155,3.4,29.5,31.8,25798307,11972
+2017,Benton,53005,Overall,48,3.1,24.6,24.6,354463,7385
+2018,US Total,,Overall,159545,3.3,48.9,*,1152668184,7225
+2018,State Total,53,Overall,1847,3.7,24.8,26.8,26988093,14614
+2018,Benton,53005,Overall,50,3.2,25.3,24.9,543076,10862
+2019,US Total,,Overall,163585,3.2,49.7,*,1239385802,7576
+2019,State Total,53,Overall,1938,3.2,25.6,27.5,25155026,12978
+2019,Benton,53005,Overall,83,3.2,41.1,39.9,708744,8539
+2020,US Total,,Overall,75410,3.4,22.8,*,665607556,8827
+2020,State Total,53,Overall,913,4.0,11.8,12.8,15790346,17304
+2020,Benton,53005,Overall,27,3.3,13.1,12.7,226656,8395
